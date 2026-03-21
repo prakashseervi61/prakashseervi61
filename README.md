@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>Hey! I'm Prakash — a curious developer who loves building things on the web.<br><br>💻 Tech Interests:<br>- Frontend: React<br>- Backend: Flask, FastAPI<br>- Programming: Python<br>- Tools: Git, Linux<br><br>🌱 Currently:<br>- Strengthening problem-solving skills<br>- Learning scalable backend systems<br>- Building real-world projects<br><br>⚡ Goal:<br>To become a full-stack developer and create impactful tech solutions.
+🚀 About Me<br><br>Hey! I'm Prakash — a curious developer who loves building things on the web
 
 
 ## 🌐 Socials:
