@@ -30,10 +30,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=about.me&logoColor=white)](https://prakashseervi61.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakashseervi1503@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/PSeervi94701)
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-coral.vercel.app/api?username=prakashseervi61&show_icons=true&theme=dark&hide=prs,issues)
-![Top Langs](https://github-readme-stats-coral.vercel.app/api/top-langs/?username=prakashseervi61&layout=compact&theme=dark)
