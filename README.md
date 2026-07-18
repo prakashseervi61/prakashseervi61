@@ -35,5 +35,5 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakashseervi61&show_icons=true&theme=dark&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi61&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-coral.vercel.app/api?username=prakashseervi61&show_icons=true&theme=dark&hide=prs,issues)
+![Top Langs](https://github-readme-stats-coral.vercel.app/api/top-langs/?username=prakashseervi61&layout=compact&theme=dark)
