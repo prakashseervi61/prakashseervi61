@@ -1,7 +1,7 @@
 name: Generate contribution snake
 
-# Renders the contribution graph as an animated SVG pair (light + dark) and
-# commits them to `main` so the profile README can hotlink them.
+# Renders the contribution graph as animated SVGs (light + dark) and commits
+# them to `main` so the profile README can hotlink them from raw.githubusercontent.
 on:
   schedule:
     # Shortest interval GitHub cron allows, off the hour to avoid the rush.
@@ -23,14 +23,19 @@ jobs:
     steps:
       - name: Render snake SVGs
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg dist/snake-dark.svg
 
       - name: Commit rendered SVGs
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: main
-          build_dir: dist
-          commit_message: "chore: refresh contribution snake [skip ci]"
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f dist/snake.svg dist/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "snake unchanged; nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore: refresh contribution snake [skip ci]"
+          git push origin HEAD:main
