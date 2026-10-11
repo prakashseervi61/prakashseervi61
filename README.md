@@ -64,13 +64,13 @@ I enjoy turning messy problems into software that's simple to read and reliable 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/prakashseervi61/QA-Assistant"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/marginalia-rag.webp" alt="QA-Assistant" width="100%" style="aspect-ratio:16/10;object-fit:cover;border-radius:8px" /></a>
+      <a href="https://github.com/prakashseervi61/QA-Assistant"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/marginalia-rag.webp" alt="QA-Assistant" width="100%" /></a>
       <h3 align="center"><a href="https://github.com/prakashseervi61/QA-Assistant">QA-Assistant "Marginalia"</a></h3>
       <p align="center">Self-hosted <b>RAG</b> document Q&amp;A — every answer ships with <b>per-claim source citations</b> and confidence scores. PDF, DOCX &amp; TXT, fully local.</p>
       <p align="center"><code>Python</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Gemini API</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/prakashseervi61/TaskFlow"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/taskflow-dashboard.webp" alt="TaskFlow" width="100%" style="aspect-ratio:16/10;object-fit:cover;border-radius:8px" /></a>
+      <a href="https://github.com/prakashseervi61/TaskFlow"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/taskflow-dashboard.webp" alt="TaskFlow" width="100%" /></a>
       <h3 align="center"><a href="https://github.com/prakashseervi61/TaskFlow">TaskFlow</a></h3>
       <p align="center">Background <b>job processing platform</b> — Redis queue, exponential-backoff retries, dead-letter queue and exactly-once execution via atomic claims.</p>
       <p align="center"><code>Java 21</code> <code>Spring Boot</code> <code>Redis</code> <code>PostgreSQL</code></p>
@@ -78,13 +78,13 @@ I enjoy turning messy problems into software that's simple to read and reliable 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/prakashseervi61/Object-Detection"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/ai-vision.webp" alt="AI Vision" width="100%" style="aspect-ratio:16/10;object-fit:cover;border-radius:8px" /></a>
+      <a href="https://github.com/prakashseervi61/Object-Detection"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/ai-vision.webp" alt="AI Vision" width="100%" /></a>
       <h3 align="center"><a href="https://github.com/prakashseervi61/Object-Detection">AI Vision</a></h3>
       <p align="center"><b>On-device object detection</b> across 80+ classes, WebGL-accelerated. Images never leave the browser — zero uploads, zero server cost.</p>
       <p align="center"><code>React 19</code> <code>ONNX Runtime</code> <code>WebGL</code> <code>PWA</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/prakashseervi61/CGPA-CALC"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/semora-cgpa.webp" alt="Semora" width="100%" style="aspect-ratio:16/10;object-fit:cover;border-radius:8px" /></a>
+      <a href="https://github.com/prakashseervi61/CGPA-CALC"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/semora-cgpa.webp" alt="Semora" width="100%" /></a>
       <h3 align="center"><a href="https://github.com/prakashseervi61/CGPA-CALC">Semora — CGPA Calculator</a></h3>
       <p align="center">Real-time <b>SGPA/CGPA</b> tracking with grade trends and multi-profile support. No backend — every profile stays in the browser.</p>
       <p align="center"><code>React</code> <code>Recharts</code> <code>React Router</code></p>
