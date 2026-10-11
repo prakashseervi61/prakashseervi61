@@ -1,0 +1,36 @@
+name: Generate contribution snake
+
+# Renders the contribution graph as an animated SVG pair (light + dark) and
+# commits them to `main` so the profile README can hotlink them.
+on:
+  schedule:
+    # Shortest interval GitHub cron allows, off the hour to avoid the rush.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never run two renders at once, or they race on the same files.
+concurrency:
+  group: snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Render snake SVGs
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg dist/snake-dark.svg
+
+      - name: Commit rendered SVGs
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: main
+          build_dir: dist
+          commit_message: "chore: refresh contribution snake [skip ci]"
