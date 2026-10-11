@@ -129,6 +129,16 @@ I enjoy turning messy problems into software that's simple to read and reliable 
 
 ---
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakashseervi61/prakashseervi61/main/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakashseervi61/prakashseervi61/main/dist/snake.svg">
+  <img alt="Prakash's contribution graph" src="https://raw.githubusercontent.com/prakashseervi61/prakashseervi61/main/dist/snake.svg">
+</picture>
+
+---
+
 ## 🎓 Education & Certifications
 
 **B.Tech, Information Technology** — Sri Krishna College of Technology, Coimbatore
