@@ -1,122 +1,159 @@
-# Hi, I'm Prakash 👋
+<div align="center">
 
-**Software Developer · Full Stack · Python · React · Spring Boot**
+  # Hey, I'm Prakash 👋
 
-Pre-final year B.Tech Information Technology student (graduating **2028**) at Sri Krishna College of Technology, Coimbatore. I build production-style applications — React frontends, Spring Boot & FastAPI backends, and applied AI systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=760&lines=Software+Developer+%F0%9F%9A%80;Full-Stack+%E2%9C%A8+Python+%2B+React+%2B+Spring+Boot;Building+clean%2C+reliable+web+applications" alt="Typing" width="760" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://prakashseervi61.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashv-dev/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/r5rxBOU1qw/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashseervi1503@gmail.com)
+  <p>
+    <a href="https://prakashseervi61.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%E2%9C%A8%20Live-22c55e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/prakashv-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/r5rxBOU1qw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="mailto:prakashseervi1503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
----
-
-## 📊 At a Glance
-
-| | |
-|:---|:---|
-| Public repositories | **24+** |
-| Automated tests | **400+** (pytest · JUnit · Vitest) |
-| LeetCode | **200+** problems solved |
-| Applications shipped | **6** production-style projects |
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### [QA-Assistant "Marginalia"](https://github.com/prakashseervi61/QA-Assistant) — Self-Hosted RAG Document Q&A
-A privacy-first Retrieval-Augmented Generation app. Upload **PDF / DOCX / TXT**, ask in natural language, and get grounded answers with **per-claim source citations**, confidence scores and streamed responses — embeddings and history never leave your machine.
+I'm **Prakash V** — a pre-final year **B.Tech Information Technology** student (graduating 2028) at **Sri Krishna College of Technology, Coimbatore**, with a CGPA of **7.58/10**.
 
-`Python` `FastAPI` `React` `ChromaDB` `Gemini API` `Docker` `GitHub Actions`
+I enjoy turning messy problems into software that's simple to read and reliable to run. Most of my work sits at the seam between **frontend and backend** — React interfaces on top of Spring Boot and FastAPI services — with a growing focus on **applied AI**.
 
-> Semantic chunking, BGE cross-encoder reranking, PII & prompt-injection guardrails — **325 pytest tests** with a RAGAS evaluation gate in CI.
-
-### [TaskFlow](https://github.com/prakashseervi61/TaskFlow) — Background Job Processing Platform
-Asynchronous job platform: REST enqueue → Redis queue → headless worker, with **exponential-backoff retries** and a **dead-letter queue**. Exactly-once execution guaranteed via atomic conditional `UPDATE` claims.
-
-`Java 21` `Spring Boot` `Redis` `PostgreSQL` `React 19` `Docker Compose`
-
-> Verified **12 jobs across 3 worker replicas → 0 duplicates**. 76 JUnit tests, cursor pagination, Flyway migrations.
-
-### [AI Vision](https://github.com/prakashseervi61/Object-Detection) — Edge Object Detection Platform
-In-browser object detection across **80+ classes**, hardware-accelerated through WebGL. Images are processed locally and **never uploaded** — total data integrity at zero server cost.
-
-`React 19` `Vite` `ONNX Runtime Web` `WebGL` `PWA`
-
-> Installable progressive web app with static-frame inference and live-camera modes.
-
-### [Fleet Management & GPS Tracking](https://github.com/prakashseervi61/Fleet-Management-and-GPS-Vehicle-Tracking-System)
-Full-stack fleet system with **live GPS tracking** on interactive maps, geofence entry/exit alerts and telemetry events for speeding, idling and harsh braking.
-
-`Spring Boot 3.5` `Spring Security (JWT)` `React 19` `MySQL` `Leaflet`
-
-> 11 REST controllers behind stateless JWT with role-based access control across **6 roles**.
-
-### [Semora — CGPA Calculator](https://github.com/prakashseervi61/CGPA-CALC)
-Real-time SGPA/CGPA tracking, grade trends and multi-profile support for engineering students. **No backend** — every profile stays in the browser.
-
-`React` `Recharts` `React Router` `Tailwind CSS`
-
-### [SplitUp](https://github.com/prakashseervi61/splitup) · [myFlix](https://github.com/prakashseervi61/myFlix)
-**SplitUp** — group expense splitting with UPI settle-up links. `Next.js` `TypeScript`
-**myFlix** — movie discovery across the live OMDB API with debounced search and a watchlist. `React` `JavaScript`
-
-> See all projects with screenshots on my **[portfolio](https://prakashseervi61.github.io/portfolio/)**.
+- 🔭 Building production-style apps, not tutorial clones
+- 🌱 Currently deepening **Spring Boot**, **FastAPI** and **RAG** systems
+- 💬 Ask me about React, Spring Boot, Redis queues, or LLM integrations
+- ⚡ Fun fact: I care more about **0 duplicates in a queue** than most people care about coffee
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages** — Python · Java · JavaScript (ES6+) · TypeScript · SQL · C++ · Bash
-
-**Frontend** — React 19 · Next.js · Tailwind CSS · Framer Motion · GSAP · TensorFlow.js · Leaflet · Vite
-
-**Backend** — Spring Boot · FastAPI · Node.js · REST APIs · JWT Auth
-
-**AI / ML** — Machine Learning · RAG · LLM Integrations (Gemini API) · sentence-transformers · COCO-SSD / YOLO ONNX
-
-**Data** — PostgreSQL · MySQL · SQLite · Redis · ChromaDB
-
-**DevOps** — Git · GitHub Actions (CI/CD) · Docker · Linux · Postman
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech), Information Technology**
-Sri Krishna College of Technology, Coimbatore — CGPA **7.58/10**
-`Sep 2024` – `Expected 2028`
+<table>
+  <tr>
+    <td valign="top" width="50%"><h4 align="left">Frontend</h4></td>
+    <td valign="top" width="50%"><h4 align="left">Backend</h4></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=react,typescript,js,tailwind,nextjs,vite,html,css" alt="Frontend" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,restapi" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%"><h4 align="left">AI / ML</h4></td>
+    <td valign="top" width="50%"><h4 align="left">Data</h4></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,python" alt="AI" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%"><h4 align="left">Languages</h4></td>
+    <td valign="top" width="50%"><h4 align="left">DevOps</h4></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,bash,sql" alt="Languages" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,postman" alt="DevOps" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🌟 Featured Projects
 
-- **freeCodeCamp** — Responsive Web Design Certification (HTML, CSS, JavaScript)
-- **LeetCode** — 200+ problems solved in data structures and algorithms
-- **24 public repositories** backed by automated test suites and code-review checklists on GitHub Actions CI
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/QA-Assistant"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/marginalia-rag.webp" alt="QA-Assistant" width="100%" /></a>
+      <h3 align="center"><a href="https://github.com/prakashseervi61/QA-Assistant">QA-Assistant "Marginalia"</a></h3>
+      <p align="center">Self-hosted <b>RAG</b> document Q&amp;A — every answer ships with <b>per-claim source citations</b> and confidence scores. PDF, DOCX &amp; TXT, fully local.</p>
+      <p align="center"><code>Python</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Gemini API</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/TaskFlow"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/taskflow-dashboard.webp" alt="TaskFlow" width="100%" /></a>
+      <h3 align="center"><a href="https://github.com/prakashseervi61/TaskFlow">TaskFlow</a></h3>
+      <p align="center">Background <b>job processing platform</b> — Redis queue, exponential-backoff retries, dead-letter queue and exactly-once execution via atomic claims.</p>
+      <p align="center"><code>Java 21</code> <code>Spring Boot</code> <code>Redis</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/Object-Detection"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/ai-vision.webp" alt="AI Vision" width="100%" /></a>
+      <h3 align="center"><a href="https://github.com/prakashseervi61/Object-Detection">AI Vision</a></h3>
+      <p align="center"><b>On-device object detection</b> across 80+ classes, WebGL-accelerated. Images never leave the browser — zero uploads, zero server cost.</p>
+      <p align="center"><code>React 19</code> <code>ONNX Runtime</code> <code>WebGL</code> <code>PWA</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/CGPA-CALC"><img src="https://raw.githubusercontent.com/prakashseervi61/portfolio/main/src/assets/images/projects/semora-cgpa.webp" alt="Semora" width="100%" /></a>
+      <h3 align="center"><a href="https://github.com/prakashseervi61/CGPA-CALC">Semora — CGPA Calculator</a></h3>
+      <p align="center">Real-time <b>SGPA/CGPA</b> tracking with grade trends and multi-profile support. No backend — every profile stays in the browser.</p>
+      <p align="center"><code>React</code> <code>Recharts</code> <code>React Router</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/Fleet-Management-and-GPS-Vehicle-Tracking-System"><h3 align="center">Fleet Management &amp; GPS Tracking</h3></a>
+      <p align="center">Full-stack fleet system with <b>live GPS tracking</b> on interactive maps, geofence entry/exit alerts and harsh-braking telemetry — behind stateless JWT with <b>6 roles</b>.</p>
+      <p align="center"><code>Spring Boot 3.5</code> <code>Spring Security</code> <code>MySQL</code> <code>Leaflet</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/prakashseervi61/splitup"><h3 align="center">SplitUp</a></a>
+      <p align="center">Split group expenses and settle up in one tap with <b>UPI</b> deep-links. No spreadsheets, no chasing friends.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <p align="center"><a href="https://github.com/prakashseervi61/myFlix"><b>myFlix</b></a> — movie discovery over the live OMDB API with debounced search &amp; watchlist.</p>
+    </td>
+  </tr>
+</table>
+
+> **More projects with screenshots** → [prakashseervi61.github.io/portfolio](https://prakashseervi61.github.io/portfolio/)
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=prakashseervi61&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=prakashseervi61&theme=github_dark&hide_border=true" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashseervi61&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech, Information Technology** — Sri Krishna College of Technology, Coimbatore
+CGPA **7.58/10** · `Sep 2024` → `Expected 2028`
+
+- 🏅 **freeCodeCamp** — Responsive Web Design Certification
+- 🏅 **LeetCode** — 200+ problems solved in data structures & algorithms
+- 🧪 **400+ automated tests** across pytest, JUnit and Vitest, gated on GitHub Actions CI
 
 ---
 
 ## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashv-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/prakashseervi61)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prakashv-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/prakashseervi61)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/r5rxBOU1qw/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?logo=githubpages&logoColor=white)](https://prakashseervi61.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?logo=githubpages&logoColor=white&style=for-the-badge)](https://prakashseervi61.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashseervi1503@gmail.com)
 
-I'm currently open to **entry-level Software Developer** roles and internships.
+</div>
 
-![Visitors](https://komarev.com/ghpvc/?username=prakashseervi61&label=Profile%20Views&color=22c55e&style=flat)
+<p align="center">Currently open to <b>entry-level Software Developer</b> roles and internships.</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakashseervi61&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
+</p>
