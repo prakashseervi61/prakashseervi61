@@ -163,7 +163,3 @@ CGPA **7.58/10** · `Sep 2024` → `Expected 2028`
 </div>
 
 <p align="center">Currently open to <b>entry-level Software Developer</b> roles and internships.</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakashseervi61&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
-</p>
